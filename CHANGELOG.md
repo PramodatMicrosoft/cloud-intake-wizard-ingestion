@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.  
 This format follows [Keep a Changelog](https://keepachangelog.com/) and adheres to [Semantic Versioning](https://semver.org/).
 
+## [v0.1.0] – 2026-04-30
+### Added
+- **Baseline fork** of `gpt-rag-ingestion` v2.3.2 for the JDCP Cloud Intake Wizard MVP. No functional changes in this release — establishes the versioned starting point referenced by `cloud-intake-wizard-platform/manifest.json`. Custom intake-specific ingestion will land in a future release.
+
 ## [v2.3.2] – 2026-04-08
 
 ### Changed
